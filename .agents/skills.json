@@ -1,0 +1,8 @@
+{
+  "entries": [
+    { "path": "malex-tech/.agents/skills" },
+    { "path": "malex-dashboard/.agents/skills" },
+    { "path": "muuvies/.agents/skills" }
+  ]
+}
+

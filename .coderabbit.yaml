@@ -1,0 +1,16 @@
+language: "en-US"
+
+reviews:
+  profile: "chill"
+  request_changes_workflow: false
+  high_level_summary: true
+  collapse_walkthrough: false
+  auto_review:
+    enabled: true
+    drafts: false
+  path_instructions:
+    - path: "**/*"
+      instructions: |
+        This is a public multi-repo workspace glue repository.
+        Flag any personal domains, private IPs, internal host paths, credentials, or secrets.
+        Keep Makefile targets and cross-repo docs consistent with sibling repos.
