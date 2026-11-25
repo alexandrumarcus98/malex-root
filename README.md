@@ -1,6 +1,9 @@
 # malex-root
 # workspace-root
 
+[![CI](https://github.com/alexandrumarcus98/malex-root/actions/workflows/ci.yml/badge.svg)](https://github.com/alexandrumarcus98/malex-root/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Multi-repository workspace template holding independent sibling projects side by side. This root repo tracks only the shared workspace glue around them and `.gitignore`s each project directory.
 
 | Project | Role |
