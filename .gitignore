@@ -1,0 +1,19 @@
+# sibling projects (each is its own git repository)
+/malex-dashboard/
+/malex-tech/
+/muuvies/
+
+# scratch, local overrides, and tool state
+/notes/
+/scroll-shots/
+/.serena/
+.claude/settings.local.json
+CLAUDE.local.md
+Makefile.local
+
+# never commit secrets or keys
+.env
+*.pem
+*.key
+*.log
+.DS_Store
